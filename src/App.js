@@ -8,7 +8,7 @@ import Interests from './components/Interests/Interests';
 
 function App() {
   return (
-    <div className="App h-screen space-y-4 max-w-md">
+    <div className="App h-screen space-y-2 max-w-md">
       <Image />
       <Header />
       <div className='flex justify-around'>

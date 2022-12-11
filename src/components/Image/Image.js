@@ -3,8 +3,8 @@ import image from '../../DSCF7298.jpeg';
 
 const Image = () => {
     return (
-        <div className='flex w-screen p-5 max-w-md'>
-            <img className='rounded shadow-lg' src={image} alt='foto' />
+        <div className='flex justify-center p-5 max-w-md'>
+            <img className='rounded shadow-lg w-5/6' src={image} alt='foto' />
         </div>
     );
 }
