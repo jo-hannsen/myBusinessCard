@@ -2,9 +2,9 @@ import React from 'react';
 
 const Interests = () => {
     return (
-        <div className='text-darkblue text-left px-5 mb-5'>
+        <div className='text-gray-800 text-center px-5 my-2 mb-5'>
             <h2>Interests</h2>
-            <p>Super interested in street photography and canpturing special moments in an urban environment.</p>
+            <p>Super interested in street photography and making memories in an urban environment.</p>
         </div>
     );
 }

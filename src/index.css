@@ -9,7 +9,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: white;
+
+  background-color: #FF3600;
 }
 
 code {
@@ -35,7 +36,7 @@ h2 {
 }
 
 .text-orange {
-  color: #FF8400;
+  color: #FF3600;
 }
 
 .bg-lightblue {
@@ -43,7 +44,7 @@ h2 {
 }
 
 .bg-orange {
-  background-color: #FF8400; 
+  background-color: #FF3600; 
 }
 
 .bg-white {
@@ -51,5 +52,5 @@ h2 {
 }
 
 .border-orange {
-  border: 1px solid #FF8400;
+  border: 1px solid #FF3600;
 }

@@ -8,15 +8,23 @@ import Interests from './components/Interests/Interests';
 
 function App() {
   return (
-    <div className="App h-screen space-y-2 max-w-md">
-      <Image />
+    <div className="App h-screen space-y-2 bg-white">
+      <div className='flex justify-center'>
+        <Image />
+      </div>
+
       <Header />
+      
       <div className='flex justify-around'>
         <Mailing />
         <WebSite />
       </div>
-      <About />
-      <Interests />
+
+      <div className='flex flex-col'>
+        <About />
+        <Interests />
+      </div>
+
     </div>
   );
 }
