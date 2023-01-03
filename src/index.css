@@ -9,7 +9,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #DDDDDD;
+  background-color: white;
 }
 
 code {
@@ -34,22 +34,22 @@ h2 {
   color: #30475E;
 }
 
-.text-red {
-  color: #F05454;
+.text-orange {
+  color: #FF8400;
 }
 
 .bg-lightblue {
   background-color: #30475E; 
 }
 
-.bg-red {
-  background-color: #F05454; 
+.bg-orange {
+  background-color: #FF8400; 
 }
 
 .bg-white {
   background-color: #DDDDDD;
 }
 
-.border-red {
-  border: 1px solid #F05454;
+.border-orange {
+  border: 1px solid #FF8400;
 }
